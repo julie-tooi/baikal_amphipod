@@ -1,14 +1,18 @@
 # Metatranscriptome analysis of *Eulimnogammarus verrucosus* microbiome
----
+
 ## Project description
 The littoral amphipod *Eulimnogammarus verrucosus* is an endemic species of Lake Baikal. The exoskeleton of *E. verrucosus* is known to be the habitat of epibiont ciliates.
 In the late summer and autumn of 2019, intensive fouling of amphipods by ciliates was observed, which led to the death of *E. verrucosus* individuals in the laboratory. Transcriptomic sequencing of *E. verrucosus* caught in September 2019, was performed. We hypothesized that the change in composition of the symbiotic community can be a reason for the death of animals. Preliminary microscopic analysis of the fouling confirmed that the epibiont belonged to ciliates.
 We decided to assess the microbiome composition using: (1) 18S rRNA as a marker of biodiversity, and (2) coding RNA (metatranscriptome assembly).
 
 ## Goal and tasks
+
 **Goal** 
+
 The aim of the work is to analyze the symbiotic community of *E. verrucosus*.
+
 **Tasks** 
+
 - Get data on the composition of the symbiotic community;
 - Compare the data with similar data for amphipods caught in previous years;
 - Collect and annotate with a metatranscriptome to determine systematic position of the detected ciliates
